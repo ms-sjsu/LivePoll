@@ -1,3 +1,2 @@
 # CMPE-272 Final Project
-# ConnectMe
-# LivePoll
+# ConnectMe - The Live Polling Portal
